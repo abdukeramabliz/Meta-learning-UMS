@@ -1,4 +1,4 @@
-#  Meta-learning method of Uyghur morphological segmentation
+#  Meta-learning Method of Uyghur Morphological Segmentation
 ## Contents
 * [Introduction](#introduction)
 * [Usage](#usage)
